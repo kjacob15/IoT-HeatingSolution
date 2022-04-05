@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+._Hardware-Code
+Hardware-Code/._.DS_Store
+Hardware-Code/.DS_Store
+Hardware-Code/aws-Iot/._secrets.h
+Hardware-Code/._aws-Iot
+Hardware-Code/aws-Iot/._aws-Iot.ino
